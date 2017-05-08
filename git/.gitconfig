@@ -8,8 +8,8 @@
 	editor = /usr/bin/vim
 	excludesfile = ~/.gitignore_global
 [user]
-	email = paulchiu@gmail.com
-	name = Paul Chiu
+	email = hello@joerefoy.com
+	name = Joe Refoy
 [merge]
 	tool = vimdiff
 	conflictstyle = diff3
