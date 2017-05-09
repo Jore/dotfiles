@@ -12,3 +12,6 @@ fi
 
 # Trigger plugin installation
 "${DEST}/.tmux/plugins/tpm/bin/install_plugins"
+
+# Reload TMUX environment so TPM is sourced
+tmux source ~/.tmux.conf
